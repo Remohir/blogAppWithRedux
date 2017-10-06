@@ -1,3 +1,39 @@
+.body {
+	background: black;
+	color: white;
+}
+
+.container {
+	margin-top: 20px;
+}
+
+.a:hover {
+	text-decoration: none;
+	color: #53B308;
+}
+
 form a {
 	margin-left: 5px;
+}
+
+.top {
+	margin-top: 5px;
+}
+
+.post_title {
+	margin: 10px auto;
+	font-weight: bold;
+}
+
+.post_categories {
+	margin: 15px auto;
+	text-decoration: underline;
+}
+
+.post_content {
+	text-align: justify;
+	margin: 25px auto;
+	padding: 10px 5px;
+	border: 1px dotted white;
+	border-radius: 5px;
 }
